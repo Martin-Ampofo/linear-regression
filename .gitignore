@@ -1,0 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache (keeps your folder clean if you convert to .py scripts later)
+__pycache__/
+*.pyc
+
+# macOS specific system files (created automatically by Finder)
+.DS_Store
+
+# Windows specific system files
+Thumbs.db
+ehthumbs.db
