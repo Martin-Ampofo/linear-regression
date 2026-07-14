@@ -29,8 +29,3 @@ Optimizes the parameters iteratively by updating weights using only a single, ra
 ## 📁 Repository Structure
 * `linearRegression.ipynb`: The primary Jupyter Notebook containing data preprocessing, implementations of all four algorithms, model training, and visualizations.
 * `.gitignore`: Configured to exclude local Jupyter checkpoint files (`.ipynb_checkpoints/`) to keep the repository clean.
-
-## 🛠️ How to Run
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/Martin-Ampofo/linear-regression.git](https://github.com/Martin-Ampofo/linear-regression.git)
